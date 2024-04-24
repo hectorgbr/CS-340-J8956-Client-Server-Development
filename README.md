@@ -27,7 +27,7 @@ Compared to previous assignments in other courses, this project required a more 
 
 # In the future, to meet other client requests for database solutions, I would:
 Gather Comprehensive Requirements: I would ensure a thorough understanding of the client's requirements before starting the development process.
-Follow Agile Methodology: As I learned in my previous courses(like CS 250)I would adopt an agile development approach, allowing for iterative development and frequent client feedback.
+Follow Agile Methodology: As I learned in my previous courses(like in CS 250) I would adopt an agile development approach, allowing for iterative development and frequent client feedback.
 Utilize Design Patterns: I would use design patterns to ensure scalability, maintainability, and extensibility of the database solution.
 Perform Extensive Testing: I would conduct rigorous testing at each stage of development to ensure the reliability and functionality of the database solution.
 
