@@ -1,5 +1,7 @@
 # CS-340-J8956-Client-Server-Development
 
+Author: Hector Banos Ramos
+
 # How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two.  What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
 In developing the CRUD Python module for Project One, I focused on writing clean, modular, and well-documented code to ensure maintainability, readability, and adaptability. By encapsulating all database operations (Create, Read, Update, Delete) into a single module, I ensured that database interactions were standardized and easily manageable. This modular approach allowed me to do a better organization of code, making it easier to understand and modify. Additionally,I utilized this CRUD module to connect the dashboard widgets to the MongoDB database in Project Two, and that way I was able to maintain consistency and reusability across both projects.
